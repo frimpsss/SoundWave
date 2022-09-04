@@ -5,7 +5,7 @@ Landing page of a music selling company <br>
 Saw design on twitter and tried my hands on it
 
 
-# View on desktop for optimal look
+# DESKTOP VIEW ONLY!!
 
 final work
 ![alt text](images/photo.png)
